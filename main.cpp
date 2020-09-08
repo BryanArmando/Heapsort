@@ -7,7 +7,7 @@
 using namespace std;
 using namespace heap;
 //using namespace operaciones;
-
+//+archivos
 int main()
 {  
   ofstream archivo;
